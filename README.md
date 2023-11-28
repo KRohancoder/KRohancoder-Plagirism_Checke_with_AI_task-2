@@ -51,7 +51,7 @@ Then run it by double clicking on player.py!
 # Features !
 
 - plagirism
-- 
+  
 - text file 
 
 # Editor's Interface Screenshot
