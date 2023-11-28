@@ -40,7 +40,9 @@ This project requires that you have Python installed. Download it here.
 It also requires the following Python packages, which can be installed via pip:
 
 -sklearn
+
 -numpy
+
 -matplotlib
 
 Then run it by double clicking on player.py!
@@ -49,11 +51,12 @@ Then run it by double clicking on player.py!
 # Features !
 
 - plagirism
+- 
 - text file 
 
 # Editor's Interface Screenshot
 
-![Screenshot](pp.PNG)
+![Screenshot](pp.png)
 
 =======================================================================
 
@@ -61,7 +64,7 @@ Then run it by double clicking on player.py!
 
 ### [This project is a part of following Open Source Program](https://codeclause.com/)
 
-![Screenshot](codeclause.jpg)
+![Screenshot](cc.jpg)
 
 
 =======================================================================
